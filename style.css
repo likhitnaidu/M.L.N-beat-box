@@ -1,0 +1,66 @@
+body{
+    
+    overflow: hidden;
+}
+.bg{
+    background-image: url("./beat-box.jpg");
+    height: 100%;
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    z-index: -1;
+  }
+H1{
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-top: 50px;
+
+    z-index: +2;
+}
+.button-box{
+    z-index: +1;
+    align-content: center;
+}
+#a{
+    height: 50px;
+    width: 70px;
+    margin-top: 280px;
+    margin-bottom: 110px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 20%;
+    
+}
+#b{
+    height: 50px;
+    width: 70px;
+    margin-right: 30px;
+    border-radius: 20%;
+}
+#c{
+    height: 50px;
+    width: 70px;
+    margin-right: 30px;
+    border-radius: 20%;
+}
+#d{
+    height: 50px;
+    width: 70px;
+    margin-right: 30px;
+    border-radius: 20%;
+}
+#e{
+    height: 50px;
+    width: 70px;
+    margin-right: 30px;
+    border-radius: 20%;
+}
+#f{
+    height: 50px;
+    width: 70px;
+    margin-right: 30px;
+    border-radius: 20%;
+}
